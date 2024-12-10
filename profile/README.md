@@ -36,31 +36,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 
 </div>
 
-## Mobile Development Concept
-
-`Wireframe Design`
-
-<div align="center">
-  <img src="/api/placeholder/700/400" alt="Mentalys Wireframe Design" width="700" />
-</div>
-
-`Application Design`
-
-<div align="center">
-  <img src="/api/placeholder/700/400" alt="Mentalys Application UI" width="700" />
-</div>
-
-## Machine Learning Concept
-
-`Model Classification for Mental Health`
-
-<div align="center">
-  <img src="/api/placeholder/700/400" alt="Mental Health Classification Model" width="700" />
-</div>
-
-## Cloud Computing Concept
-
-`Cloud Architecture`
+### Cloud Architecture
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6f9251bf-98c6-49d4-bc8b-cd5caa297e4e" width="500" />

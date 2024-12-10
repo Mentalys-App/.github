@@ -1,4 +1,4 @@
-<h1 align="left">Introducing Mentalys: Empowering Mental Health Through Technology 🧠</h1>
+<h1 align="left">Introducing Mentalys: Empowering Mental Health Through Technology 🧠 - C242-PS333</h1>
 
 ## Project Background
 

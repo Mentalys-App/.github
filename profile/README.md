@@ -80,6 +80,31 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Mobile Development | [Mobile Repository](https://github.com/Mentalys-App/mentalys-app-android)                                                                                     |
 | Cloud Computing    | [Rest API](https://github.com/Mentalys-App/CLOUD-COMPUTING), [API Nearest Clinic](https://github.com/Mentalys-App/API-Klinik-Terdekat), [API Article and Food Library](https://github.com/Mentalys-App/API-Artikel-dan-Makanan) |
 
+## Team GitHub Profiles
+
+<div align="center">
+  <a href="https://github.com/GdWidnyana">
+    <img src="https://github.com/GdWidnyana.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="GdWidnyana"/>
+  </a>
+  <a href="https://github.com/HenPx">
+    <img src="https://github.com/HenPx.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="HenPx"/>
+  </a>
+  <a href="https://github.com/mdprana">
+    <img src="https://github.com/mdprana.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="mdprana"/>
+  </a>
+  <a href="https://github.com/IMadeAgus">
+    <img src="https://github.com/IMadeAgus.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="IMadeAgus"/>
+  </a>
+  <a href="https://github.com/zyrridian">
+    <img src="https://github.com/zyrridian.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="zyrridian"/>
+  </a>
+  <a href="https://github.com/abdisetiakawan">
+    <img src="https://github.com/abdisetiakawan.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="abdisetiakawan"/>
+  </a>
+  <a href="https://github.com/Shevabey">
+    <img src="https://github.com/Shevabey.png?size=100" width="100" height="100" style="border-radius: 50%; margin: 10px;" alt="Shevabey"/>
+  </a>
+</div>
 
 
 ## Acknowledgements

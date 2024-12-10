@@ -6,7 +6,7 @@ Mental health issues in Indonesia are a growing concern, with alarming statistic
 
 Mentalys aims to address this pressing issue by offering an innovative, technology-driven solution. Our mobile application leverages cutting-edge tools in machine learning, mobile development, and cloud computing to provide accessible, efficient, and inclusive mental health support.
 
-![Mentalys APP](https://github.com/user-attachments/assets/836a4faa-c2fc-4983-a86e-da93e4af26d6)
+![image](https://github.com/user-attachments/assets/1874ab80-432b-4f73-ae8c-8086bce64176)
 <div align="center">
 <a href="https://github.com/Mentalys-Team" style="display: inline-block; margin: 0 10px;">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">

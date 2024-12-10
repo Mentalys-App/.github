@@ -22,6 +22,8 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 
 ## Team Composition
 
+<div align="center">
+  
 | Name | Student ID | Learning Path | Contribution/Task |
 |------|------------|---------------|--------------|
 | I Gede Widnyana | M014B4KY1819 | Machine Learning | ... |
@@ -31,6 +33,8 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Rezky Aditia Fauzan | A810B4KY3794 | Mobile Development | ... |
 | Abdi Setiawan | C179B4KY0013 | Cloud Computing | ... |
 | Shevabey Rahman | C179B4KY4138 | Cloud Computing | ... |
+
+</div>
 
 ## Mobile Development Concept
 

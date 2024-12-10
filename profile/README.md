@@ -31,7 +31,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Made Pranajaya Dibyacita | M014B4KY2373 | Machine Learning | ... |
 | I Made Agus Budiarta | A403B4KY1851 | Mobile Development | ... |
 | Rezky Aditia Fauzan | A810B4KY3794 | Mobile Development | ... |
-| Abdi Setiawan | C179B4KY0013 | Cloud Computing | Developing the entire REST API, including the Article and Food API, the Nearest Clinic API, deploying 3 machine learning models, integrating ML into the CC, and Deploying the APIs I created. |
+| Abdi Setiawan | C179B4KY0013 | Cloud Computing | Developing the entire REST API, including the Article and Food API, the Nearest Clinic API, deploying 3 machine learning models, integrating ML into the CC, integrating Midtrans for payment, and deploying the APIs I created. |
 | Shevabey Rahman | C179B4KY4138 | Cloud Computing | ... |
 
 </div>

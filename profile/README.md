@@ -59,7 +59,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 `Cloud Architecture`
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6f9251bf-98c6-49d4-bc8b-cd5caa297e4e" width="700" />
+  <img src="https://github.com/user-attachments/assets/6f9251bf-98c6-49d4-bc8b-cd5caa297e4e" width="500" />
 </div>
 
 ## Technology Stack

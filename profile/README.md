@@ -22,7 +22,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 
 ## Team Composition
 
-| Name | Student ID | Learning Path | Contribution |
+| Name | Student ID | Learning Path | Contribution/Task |
 |------|------------|---------------|--------------|
 | I Gede Widnyana | M014B4KY1819 | Machine Learning | ... |
 | I Nyoman Adi Mahendra Putra | M014B4KY1864 | Machine Learning | ... |
@@ -90,8 +90,8 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Component | Repository Link |
 |-----------|-----------------|
 | Machine Learning | [ML Repository] |
-| Mobile Application | [Mobile Repository] |
-| Backend API | [Backend Repository] |
+| Mobile Development | [Mobile Repository](https://github.com/Mentalys-App/mentalys-app-android) |
+| Cloud Computing | [Backend Repository](https://github.com/Mentalys-App/CLOUD-COMPUTING) |
 
 ## Acknowledgements
 

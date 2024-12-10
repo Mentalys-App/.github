@@ -102,7 +102,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Machine Learning   | [ML Audio](https://github.com/Mentalys-App/Audio-Classification-ML), [ML Handwriting](https://github.com/Mentalys-App/handwritting_detection), [ML Quiz](https://github.com/Mentalys-App/tabular_ml) |
 | Mobile Development | [Mobile Repository](https://github.com/Mentalys-App/mentalys-app-android)                                                                                     |
-| Cloud Computing    | [Rest API](https://github.com/Mentalys-App/CLOUD-COMPUTING), [API Nearest Clinic](https://github.com/Mentalys-App/API-Klinik-Terdekat), [Backend Repository 3](https://github.com/Mentalys-App/API-Artikel-dan-Makanan) |
+| Cloud Computing    | [Rest API](https://github.com/Mentalys-App/CLOUD-COMPUTING), [API Nearest Clinic](https://github.com/Mentalys-App/API-Klinik-Terdekat), [API Article and Food Library](https://github.com/Mentalys-App/API-Artikel-dan-Makanan) |
 
 
 

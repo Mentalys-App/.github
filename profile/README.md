@@ -5,7 +5,9 @@
 Mental health issues in Indonesia are a growing concern, with alarming statistics from the I-NAMHS 2022 showing that 15.5 million adolescents, or 1 in 3, experience mental health disorders. The situation is exacerbated by unequal access to mental health services across different regions, with DKI Jakarta, Aceh, and West Sumatra recording the highest cases. Factors such as bullying, family conflicts, and traumatic experiences further increase the vulnerability of individuals, while early detection and intervention remain limited, especially for marginalized communities.
 
 Mentalys aims to address this pressing issue by offering an innovative, technology-driven solution. Our mobile application leverages cutting-edge tools in machine learning, mobile development, and cloud computing to provide accessible, efficient, and inclusive mental health support.
+
 ![Cover](https://github.com/user-attachments/assets/7a56e31f-e927-4e5a-ab01-49123c75a645)
+
 <div align="center">
 <a href="https://github.com/Mentalys-Team" style="display: inline-block; margin: 0 10px;">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
@@ -18,6 +20,60 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 </a>
 </div>
 
+## Project Development Journey
+
+### Problem Analysis
+- Identified critical mental health challenges in Indonesia:
+  - 1 in 3 adolescents (15.5 million) experiencing mental health disorders
+  - Unequal access to mental health services across regions
+  - Limited early detection and intervention mechanisms
+
+### Research and Brainstorming
+- Conducted comprehensive research on mental health technology solutions
+- Identified key pain points in existing mental health support systems
+- Brainstormed innovative technological interventions
+
+### Solution Design
+- Developed a comprehensive mobile application (Mentalys) addressing multiple mental health support needs
+- Identified key technological components:
+  - Machine Learning for diagnosis
+  - Mobile development for user experience
+  - Cloud computing for scalable infrastructure
+  - AI-powered Personalization
+
+### Technology Implementation
+1. **Machine Learning Models**
+   - Sourced diverse datasets from Kaggle
+   - Developed three specialized models:
+     - Questionnaire Analysis (99% accuracy)
+       <div align="center">
+         <img src="https://github.com/user-attachments/assets/7fecc308-e7e2-4743-8e49-fd0b06f51b28" width="650" alt="Questionnaire Analysis Model Result"/>
+       </div>
+
+     - Voice Emotion Detection (94% accuracy)
+       <div align="center">
+         <img src="https://github.com/user-attachments/assets/0e84f11e-e404-4a72-8352-b16f6d5f5b26" width="650" alt="Voice Emotion Detection Model Result"/>
+       </div>
+
+     - Handwriting Analysis (84% accuracy)
+       <div align="center">
+         <img src="https://github.com/user-attachments/assets/21be713f-9f9f-4cd2-b172-73a0ce7498d9" width="650" alt="Handwriting Analysis Model Result"/>
+       </div>
+
+2. **Mobile Development**
+   - Used Kotlin and Android Studio
+   - Designed intuitive UI/UX
+   - Implemented key features:
+     - User authentication
+     - Mental health diagnosis
+     - Mood tracking
+     - Emergency support
+
+3. **Cloud Infrastructure**
+   - Utilized Google Cloud Platform
+   - Implemented secure authentication
+   - Created scalable backend services
+   - Integrated APIs for seamless functionality
 
 ## Team Composition
 
@@ -26,7 +82,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Name | Student ID | Learning Path | Contribution/Task |
 |------|------------|---------------|--------------|
 | I Gede Widnyana | M014B4KY1819 | Machine Learning | I built the questionnaire model with an accuracy of 99% to support the mental health diagnosis feature. I handled the administrative aspects, managed the core idea of the Mentalys project, and guided the team to ensure the successful development and integration of key features. |
-| I Nyoman Adi Mahendra Putra | M014B4KY1864 | Machine Learning | I have worked on a machine learning model for audio that can detect a person’s emotions. Based on these emotions, it can classify whether someone is experiencing depression or not, aligning with the mental health topic we are addressing. The model currently achieves 94% accuracy. |
+| I Nyoman Adi Mahendra Putra | M014B4KY1864 | Machine Learning | I have worked on a machine learning model for audio that can detect a person's emotions. Based on these emotions, it can classify whether someone is experiencing depression or not, aligning with the mental health topic we are addressing. The model currently achieves 94% accuracy. |
 | Made Pranajaya Dibyacita | M014B4KY2373 | Machine Learning | ... |
 | I Made Agus Budiarta | A403B4KY1851 | Mobile Development | ... |
 | Rezky Aditia Fauzan | A810B4KY3794 | Mobile Development | ... |
@@ -40,8 +96,37 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
   <img src="https://github.com/user-attachments/assets/6f9251bf-98c6-49d4-bc8b-cd5caa297e4e" width="500" />
 </div>
 
-## Tools
+## App Installation Guide
 
+### Prerequisites
+- Android smartphone (Version 8.0 or higher)
+- Minimum 200MB free storage space
+- Active internet connection
+
+### Installation Steps
+1. **Download APK**
+   - Visit: [Mentalys APK](https://drive.google.com/drive/folders/1r7ULhkAKtTeRaoagPvunXmEoKpZTk2G9?usp=drive_link)
+
+2. **Enable Unknown Sources**
+   - Go to Settings > Security
+   - Allow installation from unknown sources
+
+3. **Install the App**
+   - Locate downloaded APK
+   - Follow installation prompts
+   - Grant necessary permissions
+
+4. **First-Time Setup**
+   - Complete onboarding
+   - Create user account
+   - Set language preference
+
+### Troubleshooting
+- Ensure stable internet connection
+- Check device compatibility
+- Restart device if installation fails
+
+## Tools
 
 <div align="center">
   <h3>Machine Learning</h3>
@@ -104,9 +189,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
   </a>
 </div>
 
-## STEP BY STEP
 
+## License
 
-## Acknowledgements
-
-Developed as part of the Bangkit Academy 2024 Program
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.

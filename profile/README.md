@@ -104,6 +104,8 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
   </a>
 </div>
 
+## STEP BY STEP
+
 
 ## Acknowledgements
 

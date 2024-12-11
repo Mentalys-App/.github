@@ -16,7 +16,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
 </a>
 <a href="https://github.com/Mentalys-Team" style="display: inline-block; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Version-0.7.0-green" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.8.0-green" alt="Version">
 </a>
 </div>
 

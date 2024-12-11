@@ -5,8 +5,7 @@
 Mental health issues in Indonesia are a growing concern, with alarming statistics from the I-NAMHS 2022 showing that 15.5 million adolescents, or 1 in 3, experience mental health disorders. The situation is exacerbated by unequal access to mental health services across different regions, with DKI Jakarta, Aceh, and West Sumatra recording the highest cases. Factors such as bullying, family conflicts, and traumatic experiences further increase the vulnerability of individuals, while early detection and intervention remain limited, especially for marginalized communities.
 
 Mentalys aims to address this pressing issue by offering an innovative, technology-driven solution. Our mobile application leverages cutting-edge tools in machine learning, mobile development, and cloud computing to provide accessible, efficient, and inclusive mental health support.
-
-![image](https://github.com/user-attachments/assets/b1424900-3d9f-438a-9ee3-ad35abf470f1)
+![Cover](https://github.com/user-attachments/assets/7a56e31f-e927-4e5a-ab01-49123c75a645)
 <div align="center">
 <a href="https://github.com/Mentalys-Team" style="display: inline-block; margin: 0 10px;">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">

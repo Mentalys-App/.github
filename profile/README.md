@@ -26,7 +26,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Name | Student ID | Learning Path | Contribution/Task |
 |------|------------|---------------|--------------|
 | I Gede Widnyana | M014B4KY1819 | Machine Learning | I built the questionnaire model with an accuracy of 99% to support the mental health diagnosis feature. I handled the administrative aspects, managed the core idea of the Mentalys project, and guided the team to ensure the successful development and integration of key features. |
-| I Nyoman Adi Mahendra Putra | M014B4KY1864 | Machine Learning | ... |
+| I Nyoman Adi Mahendra Putra | M014B4KY1864 | Machine Learning | I have worked on a machine learning model for audio that can detect a person’s emotions. Based on these emotions, it can classify whether someone is experiencing depression or not, aligning with the mental health topic we are addressing. The model currently achieves 94% accuracy. |
 | Made Pranajaya Dibyacita | M014B4KY2373 | Machine Learning | ... |
 | I Made Agus Budiarta | A403B4KY1851 | Mobile Development | ... |
 | Rezky Aditia Fauzan | A810B4KY3794 | Mobile Development | ... |

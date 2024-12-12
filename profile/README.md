@@ -86,7 +86,7 @@ Mentalys aims to address this pressing issue by offering an innovative, technolo
 | Made Pranajaya Dibyacita | M014B4KY2373 | Machine Learning | ... |
 | I Made Agus Budiarta | A403B4KY1851 | Mobile Development | I have developed a mental health test feature that includes a voice test, handwriting test, and questionnaire. Additionally, I implemented mental test history, motivational messages, definitions of mental states along with related articles based on test results,I also developed nearby clinic information using GPS. On the settings page, I included an "About Us" section containing terms of service, privacy policy, and app information. On the education page, I created a dialog displaying details about food content, view all food page, and view all articles page |
 | Rezky Aditia Fauzan | A810B4KY3794 | Mobile Development | ... |
-| Abdi Setiawan | C179B4KY0013 | Cloud Computing | I created a complete REST API, Articles and Food API, Nearby Clinic API, deployed 3 machine learning models, integrated ML into CC, integrated Midtrans for payment, and deployed the API I created. |
+| Abdi Setiawan | C179B4KY0013 | Cloud Computing | I have created a complete REST API that includes Articles and Food API, Nearby Clinic API, and documentation using Swagger that can be accessed directly through a public URL. This REST API also includes dummy psychiatrist data integrated with Midtrans for payment, user authentication using Firestore, and data storage in Firebase. In addition, I integrated three machine learning models that have been deployed to cloud computing to support AI features, ensuring reliable performance. All APIs are deployed, ready to use with a seamless payment experience. |
 | Shevabey Rahman | C179B4KY4138 | Cloud Computing | ... |
 
 </div>
